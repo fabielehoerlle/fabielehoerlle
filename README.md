@@ -19,7 +19,7 @@
   <img align="center" alt="Fabi-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
     
     
-  <img align="right" alt="Fabi-pic" height="150" style="border-radius:50px;" src="./fabi-avatoon.jpeg">
+  <img align="right" alt="Fabi-pic" height="300" style="border-radius:50px;" src="./fabi-avatoon.jpeg">
 </div>
   
   ## &nbsp;
