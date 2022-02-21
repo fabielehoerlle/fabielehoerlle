@@ -1,7 +1,7 @@
 ## Olá! Sou a Fabiele e bem vindo(a) ao meu Github! 👩‍💻
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="Fabi-pic" height="250" style="border-radius:200px;" src="./fabi-avatoon.jpeg">
+  <img align="right" alt="Fabi-pic" height="300" style="border-radius:100px;" src="./fabi-avatoon.jpeg">
 </div>
 
 - 📚 Estudando Flutter 
