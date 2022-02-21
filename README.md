@@ -6,15 +6,15 @@
 
 - 📚 Estudando Flutter 
 - 💻 Interesse em trabalhar com Frontend
-- 🎨 Gosto de criar widgets e telas para aplicativos 
+- 🎨 Criação de widgets e telas para aplicativos 
 - 💡 Diariamente em contato com conteúdos relacionados a tecnologia
 
 ##
 
 <div>
   <a href="https://github.com/fabielehoerlle">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fabielehoerlle&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabielehoerlle&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fabielehoerlle&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabielehoerlle&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##
