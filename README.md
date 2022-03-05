@@ -4,6 +4,7 @@
   <img align="right" alt="Fabi-pic" height="300" style="border-radius:100px;" src="./fabi-avatoon.jpeg">
 </div>
 
+- 📓 Em busca da primeira oportunidade 
 - 📚 Estudando Flutter 
 - 💻 Interesse em trabalhar com Frontend
 - 🎨 Criação de widgets e telas para aplicativos 
